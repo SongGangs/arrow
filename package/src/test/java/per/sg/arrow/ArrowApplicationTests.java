@@ -1,4 +1,4 @@
-package per.sg.road.arrow;
+package per.sg.arrow;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

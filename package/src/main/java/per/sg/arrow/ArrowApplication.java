@@ -1,13 +1,13 @@
-package per.sg.road;
+package per.sg.arrow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RoadApplication {
+public class ArrowApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RoadApplication.class, args);
+        SpringApplication.run(ArrowApplication.class, args);
     }
 
 }

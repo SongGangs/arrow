@@ -19,9 +19,7 @@
     </modules>
     <name>arrow</name>
     <description>Arrow Ready to go</description>
-    <packaging>pom
-    </packaging
-    >
+    <packaging>pom</packaging>
     <properties>
         <java.version>1.8</java.version>
     </properties>
