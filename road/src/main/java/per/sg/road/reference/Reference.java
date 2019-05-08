@@ -52,5 +52,7 @@ public class Reference {
         tset_gc2();
 
         //以上可以看出：弱引用不能单独存活！！ 至少需要软可达。
+        //虽然 WeakReference 与 SoftReference 都有利于提高 GC 和 内存的效率，
+        // 但是 WeakReference ，一旦失去最后一个强引用，就会被 GC 回收，而软引用虽然不能阻止被回收，但是可以延迟到 JVM 内存不足的时候。
     }
 }
