@@ -1,4 +1,4 @@
-package per.sg.road.designpattern.creativepatterns.builderpatter;
+package per.sg.road.designpattern.creativepatterns.builderpattern;
 
 /**
  * @author : SGang

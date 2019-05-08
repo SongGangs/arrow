@@ -1,8 +1,8 @@
-package per.sg.road.designpattern.creativepatterns.builderpatter;
+package per.sg.road.designpattern.creativepatterns.builderpattern;
 
-import per.sg.road.designpattern.creativepatterns.factorymethodpatter.MailSender;
-import per.sg.road.designpattern.creativepatterns.factorymethodpatter.Sender;
-import per.sg.road.designpattern.creativepatterns.factorymethodpatter.SmsSender;
+import per.sg.road.designpattern.creativepatterns.factorymethodpattern.MailSender;
+import per.sg.road.designpattern.creativepatterns.factorymethodpattern.Sender;
+import per.sg.road.designpattern.creativepatterns.factorymethodpattern.SmsSender;
 
 import java.util.ArrayList;
 import java.util.List;

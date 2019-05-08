@@ -1,4 +1,4 @@
-package per.sg.road.designpattern.creativepatterns.factorymethodpatter;
+package per.sg.road.designpattern.creativepatterns.factorymethodpattern;
 
 /**
  * @author : SGang

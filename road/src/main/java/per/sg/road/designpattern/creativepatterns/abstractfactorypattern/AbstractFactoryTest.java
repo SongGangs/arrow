@@ -1,7 +1,6 @@
 package per.sg.road.designpattern.creativepatterns.abstractfactorypattern;
 
-import per.sg.road.designpattern.creativepatterns.factorymethodpatter.Sender;
-import per.sg.road.designpattern.creativepatterns.factorymethodpatter.SmsSender;
+import per.sg.road.designpattern.creativepatterns.factorymethodpattern.Sender;
 
 /**
  * @author : SGang
